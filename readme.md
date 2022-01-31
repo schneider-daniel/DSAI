@@ -10,15 +10,15 @@ Studies of the University of Applied Sciences Kempten can find the time table fo
 
 ## 📃 Slides
 You will find all slides in our [Google drive](https://drive.google.com/drive/folders/1-thmiOwam4u5qi4M9Cpffxog0osLYMba?usp=sharing) 
-- [L1_Introduction]
-- [L2_Visualization_and_Statistics]
-- [L3_Clustering]
-- [L4_]
-- [L5_]
-- [L6_Classification_and_Regression]
-- [L7_Introduction_to_Deep_Learning]
-- [L8_]
-- [L9_Convolutional_Neuronal_Networks_Part_1]
+- [L01_Introduction]
+- [L02_Visualization_and_Statistics]
+- [L03_Clustering]
+- [L04_]
+- [L05_]
+- [L06_Classification_and_Regression]
+- [L07_Introduction_to_Deep_Learning]
+- [L08_]
+- [L09_Convolutional_Neuronal_Networks_Part_1]
 - [L10_Convolutional_Neuronal_Networks_Part_2]
 - [L11_Introduction_to_Sequence_Modeling]
 - [L12_Deep_Learning_Applications]
@@ -26,19 +26,20 @@ You will find all slides in our [Google drive](https://drive.google.com/drive/fo
 
 
 ## 📓 Notebooks
-- [L1_Introduction]
-- [L2_Visualization_and_Statistics]
-- [L3_Clustering]
-- [L4_]
-- [L5_]
-- [L6_Classification_and_Regression]
-- [L7_Introduction_to_Deep_Learning]
-- [L8_]
-- [L9_Convolutional_Neuronal_Networks_Part_1]
+- [L01_Introduction]
+- [L02_Visualization_and_Statistics]
+- [L03_Clustering]
+- [L04_]
+- [L05_]
+- [L06_Classification_and_Regression]
+- [L07_Introduction_to_Deep_Learning]
+- [L08_]
+- [L09_Convolutional_Neuronal_Networks_Part_1]
 - [L10_Convolutional_Neuronal_Networks_Part_2]
 - [L11_Introduction_to_Sequence_Modeling]
 - [L12_Deep_Learning_Applications]
 - [L13_Recap]
+
 
 ## 📝 Assignments
 
