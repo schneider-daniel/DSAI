@@ -1,0 +1,25 @@
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 4AD7-EA0C
+
+ Verzeichnis von C:\Users\daniel.schneider\Documents\Vorlesung\DSKI
+
+31.01.2022  11:50    <DIR>          .
+31.01.2022  11:50    <DIR>          ..
+31.01.2022  11:45             2.054 .gitignore
+31.01.2022  11:50                 0 abc.txt
+31.01.2022  11:39    <DIR>          L10_Convolutional_Neuronal_Networks_Part_2
+31.01.2022  11:40    <DIR>          L11_Introduction_to_Sequence_Modeling
+31.01.2022  11:40    <DIR>          L12_Deep_Learning_Applications
+31.01.2022  11:40    <DIR>          L13_Recap
+31.01.2022  11:36    <DIR>          L1_Introduction
+31.01.2022  11:36    <DIR>          L2_Visualization_and_Statistics
+31.01.2022  11:37    <DIR>          L3_Clustering
+31.01.2022  11:37    <DIR>          L4_
+31.01.2022  11:37    <DIR>          L5_
+31.01.2022  11:38    <DIR>          L6_Classification_and_Regression
+31.01.2022  11:38    <DIR>          L7_Introduction_to_Deep_Learning
+31.01.2022  11:38    <DIR>          L8_
+31.01.2022  11:39    <DIR>          L9_Convolutional_Neuronal_Networks_Part_1
+31.01.2022  11:50               155 readme.md
+               3 Datei(en),          2.209 Bytes
+              15 Verzeichnis(se), 23.683.280.896 Bytes frei
