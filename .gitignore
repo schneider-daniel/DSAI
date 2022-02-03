@@ -143,3 +143,5 @@ dmypy.json
 *.gz
 *.synctex.gz
 *.dia
+
+__Reference_Solutions/
