@@ -13,7 +13,7 @@ Studies of the University of Applied Sciences Kempten can find the time table fo
 - <a href="https://github.com/lnxdxC/DSAI/tree/main/L02_Visualization_and_Statistics" target="_blank">L02_Visualization_and_Statistics</a>
 - <a href="https://github.com/lnxdxC/DSAI/tree/main/L03_Clustering" target="_blank" rel="noopener noreferrer">L03_Clustering</a>
 - <a href="https://github.com/lnxdxC/DSAI/tree/main/L04_Dimension_Reduction" target="_blank" rel="noopener noreferrer">L04_Dimension_Reduction</a>
-- <a href="https://github.com/lnxdxC/DSAI/tree/main/L05_Trees_and_Forests" target="_blank rel="noopener noreferrer"">L05_Trees_and_Forests</a>
+- <a href="https://github.com/lnxdxC/DSAI/tree/main/L05_Trees_and_Forests" target="_blank" rel="noopener noreferrer">L05_Trees_and_Forests</a>
 - <a href="https://github.com/lnxdxC/DSAI/tree/main/L06_Classification_and_Regression" target="_blank" rel="noopener noreferrer">L06_Classification_and_Regression</a>
 - <a href="https://github.com/lnxdxC/DSAI/blob/main/L07_Introduction_to_Deep_Learning/L07_Introduction_to_Deep_Learning.pdf" target="_blank" rel="noopener noreferrer">L07_Introduction_to_Deep_Learning</a>
 - <a href="https://github.com/lnxdxC/DSAI/tree/main/L08_Introduction_to_Backpropagation" target="_blank" rel="noopener noreferrer">L08_Introduction_to_Backpropagation</a>
@@ -48,5 +48,5 @@ Studies of the University of Applied Sciences Kempten can find the time table fo
 ## 🏆 Competitions
 - <a href="https://github.com/lnxdxC/DSAI/tree/main/L08_Introduction_to_Backpropagation" target="_blank" rel="noopener noreferrer">L08_Introduction_to_Backpropagation</a>
 - <a href="https://github.com/lnxdxC/DSAI/blob/main/L09_Convolutional_Neuronal_Networks_Part_1" target="_blank" rel="noopener noreferrer">L09_Convolutional_Neuronal_Networks_Part_1</a>
-- <a href="https://github.com/lnxdxC/DSAI/blob/main/L11_Introduction_to_Sequence_Modeling" target="_blank rel="noopener noreferrer"">L11_Introduction_to_Sequence_Modeling</a>
+- <a href="https://github.com/lnxdxC/DSAI/blob/main/L11_Introduction_to_Sequence_Modeling" target="_blank" rel="noopener noreferrer">L11_Introduction_to_Sequence_Modeling</a>
 - <a href="https://github.com/lnxdxC/DSAI/tree/main/L12_Deep_Learning_Applications" target="_blank" rel="noopener noreferrer">L12_Deep_Learning_Applications</a>
