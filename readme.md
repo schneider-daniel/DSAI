@@ -10,7 +10,7 @@ Studies of the University of Applied Sciences Kempten can find the time table fo
 
 ## 📃 Slides
 - <a href="https://github.com/lnxdxC/DSAI/tree/main/L01_Introduction/L01_Introduction.pdf" target="_blank" rel="noopener noreferrer">L01_Introduction</a>
-- <a href="https://github.com/lnxdxC/DSAI/tree/main/L02_Visualization_and_Statistics" target="_blank">L02_Visualization_and_Statistics</a>
+- <a href="https://github.com/lnxdxC/DSAI/tree/main/L02_Visualization_and_Statistics/L02_Visualization_and_Statistics.pdf" target="_blank">L02_Visualization_and_Statistics</a>
 - <a href="https://github.com/lnxdxC/DSAI/tree/main/L03_Clustering" target="_blank" rel="noopener noreferrer">L03_Clustering</a>
 - <a href="https://github.com/lnxdxC/DSAI/tree/main/L04_Dimension_Reduction" target="_blank" rel="noopener noreferrer">L04_Dimension_Reduction</a>
 - <a href="https://github.com/lnxdxC/DSAI/tree/main/L05_Trees_and_Forests" target="_blank" rel="noopener noreferrer">L05_Trees_and_Forests</a>
@@ -41,6 +41,7 @@ Studies of the University of Applied Sciences Kempten can find the time table fo
 
 ## 📝 Assignments
 - <a href="https://github.com/lnxdxC/DSAI/blob/main/L01_Introduction/HA01_1.ipynb" target="_blank" rel="noopener noreferrer">L01_Introduction</a>
+- <a href="https://github.com/lnxdxC/DSAI/blob/main/L02_Visualization_and_Statistics/HA02.4.ipynb" target="_blank" rel="noopener noreferrer">L02_Visualization_and_Statistics</a>
 - <a href="https://github.com/lnxdxC/DSAI/tree/main/L08_Introduction_to_Backpropagation" target="_blank" rel="noopener noreferrer">L08_Introduction_to_Backpropagation</a>
 - <a href="https://github.com/lnxdxC/DSAI/blob/main/L09_Convolutional_Neuronal_Networks_Part_1" target="_blank" rel="noopener noreferrer">L09_Convolutional_Neuronal_Networks_Part_1</a>
 - <a href="https://github.com/lnxdxC/DSAI/blob/main/L11_Introduction_to_Sequence_Modeling" target="_blank" rel="noopener noreferrer">L11_Introduction_to_Sequence_Modeling</a>
