@@ -42,7 +42,7 @@ Studies of the University of Applied Sciences Kempten can find the time table fo
 ## 📝 Assignments
 - <a href="https://github.com/lnxdxC/DSAI/blob/main/L01_Introduction/HA01_1.ipynb" target="_blank" rel="noopener noreferrer">L01_Introduction</a>
 - <a href="https://github.com/lnxdxC/DSAI/blob/main/L02_Visualization_and_Statistics/HA02.4.ipynb" target="_blank" rel="noopener noreferrer">L02_Visualization_and_Statistics</a>
-- - <a href="https://github.com/lnxdxC/DSAI/blob/main/L03_Clustering/L03.3_kMeans.ipynb" target="_blank" rel="noopener noreferrer">L03_Clustering</a>
+- <a href="https://github.com/lnxdxC/DSAI/blob/main/L03_Clustering/L03.3_kMeans.ipynb" target="_blank" rel="noopener noreferrer">L03_Clustering</a>
 - <a href="https://github.com/lnxdxC/DSAI/tree/main/L08_Introduction_to_Backpropagation" target="_blank" rel="noopener noreferrer">L08_Introduction_to_Backpropagation</a>
 - <a href="https://github.com/lnxdxC/DSAI/blob/main/L09_Convolutional_Neuronal_Networks_Part_1" target="_blank" rel="noopener noreferrer">L09_Convolutional_Neuronal_Networks_Part_1</a>
 - <a href="https://github.com/lnxdxC/DSAI/blob/main/L11_Introduction_to_Sequence_Modeling" target="_blank" rel="noopener noreferrer">L11_Introduction_to_Sequence_Modeling</a>
