@@ -146,5 +146,7 @@ dmypy.json
 
 __Reference_Solutions/
 L02_Visualization_and_Statistics/preperation/
+L03_Clustering/preperation/
+L03_Clustering/DBSCAN
 /preperation
 .idea
