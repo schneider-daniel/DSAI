@@ -12,7 +12,7 @@ from statsmodels.tsa.api import ExponentialSmoothing, SimpleExpSmoothing, Holt
 
 def alphaSmoothing(values, alpha):
     return (
-        SimpleExpSmoothing(values, initialization_method="heuristic")
+        SimpleExpSmoothing(values)
         .fit(smoothing_level=alpha, optimized=False)
         .fittedvalues
     )
