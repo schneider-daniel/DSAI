@@ -1,3 +1,6 @@
+data/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -146,4 +149,8 @@ dmypy.json
 
 __Reference_Solutions/
 L02_Visualization_and_Statistics/preperation/
+L03_Clustering/preperation/
+L03_Clustering/DBSCAN
+L06_Classification_and_Regression\preperation
 /preperation
+.idea
